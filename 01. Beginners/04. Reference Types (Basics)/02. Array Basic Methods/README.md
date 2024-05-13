@@ -9,3 +9,4 @@
 | sort()     |          sorts the elements alphabetically in strings and in ascending order           |
 | slice()    |                 selects the part of an array and returns the new array                 |
 | splice()   |             removes or replaces existing elements and/or adds new elements             |
+
